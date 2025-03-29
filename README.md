@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Data Analyais
 
 This project provides an in-depth analysis of a Netflix dataset. The goal is to clean the data, perform exploratory data analysis, and gain insights into various attributes of Netflix content.
 
